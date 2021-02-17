@@ -92,3 +92,9 @@ padding-bottom: 10px;
 .movie_head span{
 color:#000000;
 }
+.environment li{
+margin-top:15px;
+}
+.environment li h4{
+padding:8px;
+}
